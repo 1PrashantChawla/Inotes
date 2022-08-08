@@ -1,0 +1,44 @@
+---------MERN STACK STARTS-------
+MONGODB-document database (it aligns better with JS that why we are not using SQL)
+EXPRESS-Nosw.js web framework
+REACT-client side js framework
+NODE-The premier JS WEB-server 
+
+--------
+WE WILL SEPERATE THIS I NOTEBOOK APP FOR BACKEND AND FRONTEND
+TUT42.
+FRONTEND          			  | 				BACKEND
+1.Seperate node modules for both
+
+MONGODB IS used here because it is very easy and we can use JS objects here					
+In this course we installed Mongodb on our computer Bcoz we will be using our computer for depkoyment
+
+if we would have deployed on the server then we would have installed in on our server
+
+Backend ke ke lie express package install karenge
+
+ABOUT OUR APP-
+I notebook is a cloud app where we can take notes which will be shown only to us.
+
+We created a seperate foldder for Backend 
+ STep1; npm init
+ STep2:npm i express
+ STep3:npm i mongoose // abstraction layer to connect with mongodb
+
+in backend we used THUNDERCLIENT:Thunder Client is an alternative to the famous Postman tool used for testing client APIs..
+
+-----------------MONGODB ------------------------
+we can also use the db available on the mongo db atlas which provides a string url. for now we will use mondoDbcompass since we have to use only in coputer
+
+TUT43-
+installed MongoDb communty server then it will also install mongo db compass then connect by 
+
+JS has asyncronous nature ,JS works on non blocking nature means whatseber is blocking in the way it will solve the next one rather than getting stuck on it
+
+Tut 44_
+
+ROUTES AND MONGOOSE SCHEMA FOR OUR BACKEND
+
+DATABASE > COLLECTIONS> DOCUMENTS or JSON
+mongo db me free me calidation mil jta hai
+CRUD operation CREATE,READ,UPDATE,DELETE
